@@ -4,7 +4,7 @@
 <!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.                   -->
 <!-- Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.   -->
 
-<Project Product="Vivado" Version="7" Minor="68" Path="C:/Users/paewa/ece281/ece281-lab5(mine)/basic_cpu.xpr">
+<Project Product="Vivado" Version="7" Minor="68" Path="C:/Users/paewa/ece281/ece281-lab5/basic_cpu.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="3d1795c4b96a40819fafeee51e1795f5"/>
@@ -117,7 +117,7 @@
       <File Path="$PSRCDIR/sources_1/imports/src/full_adder.vhd">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../ece281-ice3/src/full_adder.vhd"/>
-          <Attr Name="ImportTime" Val="1739511846"/>
+          <Attr Name="ImportTime" Val="1746504632"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
@@ -125,7 +125,7 @@
       <File Path="$PSRCDIR/sources_1/imports/src/ripple_adder.vhd">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../ece281-ice3/src/ripple_adder.vhd"/>
-          <Attr Name="ImportTime" Val="1739515199"/>
+          <Attr Name="ImportTime" Val="1746504632"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
